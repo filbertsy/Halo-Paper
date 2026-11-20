@@ -5,7 +5,7 @@ import io.papermc.paper.command.brigadier.CommandSourceStack;
 
 public class HaloCommand implements BasicCommand {
   @Override
-  public void execute(final CommandSourceStack source, final (String[] args {
+  public void execute(final CommandSourceStack source, final String[] args) {
 
     if (args.length == 0) {
       source.getSender().sendMessage("Usage: /halo <enable|disable>");
