@@ -4,3 +4,7 @@ main: me.zyon.halo.HaloPlugin
 api-version: '26.3'
 author: Zyon
 description: A custom halo plugin
+commands:
+  halo:
+    description: Main Halo command
+    usage: /halo
