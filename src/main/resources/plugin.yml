@@ -1,0 +1,6 @@
+name: Halo-Paper
+version: 1.0.0
+main: me.zyon.halo.HaloPlugin
+api-version: '26.3'
+author: Zyon
+description: A custom halo plugin
